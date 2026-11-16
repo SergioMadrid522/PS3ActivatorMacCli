@@ -1,0 +1,8 @@
+# Swift / SwiftPM build artifacts
+.build/
+
+# Editor
+.vscode/
+
+# macOS
+.DS_Store
